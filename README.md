@@ -1,4 +1,4 @@
-# Cpp-PF-project
+# Cpp-Programming-Fundamentals-Project: Pestcouts
 This repository shows a project that implements Programming Fundamentals concepts like Functions, file handling 
 
 ![image](https://github.com/user-attachments/assets/b3f60190-9bed-4645-afc8-abfa918e6f18)
